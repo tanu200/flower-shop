@@ -1,0 +1,39 @@
+/*common css**/
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+/**header area*/
+header {
+    background-color: #FCEAEE;
+
+}
+
+.header-area {
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+
+.header-title {
+    font-size: 70px;
+}
+
+.header-img img {
+    height: 700px;
+    width: 500px;
+}
+
+.text {
+    color: darkgray;
+}
+
+button {
+    background-color: #E55473;
+    color: #FCEAEE;
+    border: none;
+    border-radius: 5px;
+    padding: 15px 20px;
+}
