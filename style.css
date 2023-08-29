@@ -37,3 +37,41 @@ button {
     border-radius: 5px;
     padding: 15px 20px;
 }
+
+/**feature section*/
+.feature-area {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.feature-title {
+    font-size: 30px;
+}
+
+.flower {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.flower img {
+    height: 300px;
+    width: 200px;
+}
+
+
+.flower a {
+    color: black;
+
+}
+
+.delivery {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 150px;
+    background-color: darkgray;
+    padding: 20px;
+}
