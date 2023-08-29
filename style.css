@@ -74,4 +74,24 @@ button {
     margin-top: 150px;
     background-color: darkgray;
     padding: 20px;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+/***sales up*/
+span {
+    color: #E55473;
+}
+
+.sales-info {
+    text-align: center;
+}
+
+.sales-area {
+    background-color: #FCEAEE;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 50px;
+
 }
