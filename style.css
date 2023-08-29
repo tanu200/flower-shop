@@ -38,16 +38,17 @@ button {
     padding: 15px 20px;
 }
 
-/**feature section*/
-.feature-area {
+/**common area*/
+.common-area {
     text-align: center;
     margin-top: 50px;
 }
 
-.feature-title {
+.common-title {
     font-size: 30px;
 }
 
+/**feature section*/
 .flower {
     display: flex;
     align-items: center;
@@ -117,6 +118,25 @@ input {
     width: 400px;
     padding: 15px 20px;
     border: none;
+}
+
+
+.text-flower {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 50px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.text-flower img {
+    width: 400px;
+    height: 500px;
+}
+
+.text1 {
+    margin-left: 20px;
 }
 
 /***footer area*/
