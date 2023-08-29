@@ -108,7 +108,7 @@ span {
 .latest-deals {
     background-image: url(images/Rectangle\ 9.png);
     padding: 40px;
-    margin-top: 50px;
+    margin-top: 70px;
     margin-left: 40px;
     margin-right: 40px;
 }
@@ -117,4 +117,18 @@ input {
     width: 400px;
     padding: 15px 20px;
     border: none;
+}
+
+/***footer area*/
+footer {
+    background-color: black;
+    margin-top: 50px;
+    padding: 50px;
+    text-align: center;
+}
+
+footer h3 {
+    color: #FCEAEE;
+    font-size: 30px;
+
 }
